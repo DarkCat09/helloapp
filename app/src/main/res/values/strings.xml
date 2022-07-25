@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Hello App</string>
+    <string name="name_field">Your name</string>
+    <string name="birthday_field">Birthday</string>
+    <string name="dev_field">I\'m a developer</string>
+    <string name="hello_button">Hello</string>
+    <string name="image_descr">Random picture with cat or dog</string>
+    <string name="default_text">Here will be some text</string>
+    <string name="hello_text">Hello, %s!</string>
+    <string name="age_text">You are %d years old</string>
+    <string name="date_error">Date must be in d-m-y or d.m.y format</string>
+    <string name="name_error">Name can\'t be empty</string>
+</resources>

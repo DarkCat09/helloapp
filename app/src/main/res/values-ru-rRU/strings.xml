@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hello App</string>
+    <string name="name_field">Ваше имя</string>
+    <string name="birthday_field">Дата рождения</string>
+    <string name="dev_field">Я - разработчик</string>
+    <string name="hello_button">Привет</string>
+    <string name="image_descr">Случайная картинка с котом или собакой</string>
+    <string name="default_text">Здесь будет текст</string>
+    <string name="hello_text">Привет, %s!</string>
+    <string name="age_text">Ваш возраст: %d</string>
+    <string name="date_error">Дата должна быть в формате д-м-г или д.м.г</string>
+    <string name="name_error">Имя не может быть пустым</string>
+</resources>
